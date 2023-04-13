@@ -1,2 +1,2 @@
-# BE & FE (WEB) Stydy - ez
-java & WEB 학습자료
+# BE & FE (WEB) Study - ez
+WEB 학습자료
